@@ -27,4 +27,12 @@ Windows, Jira, YouTrack, Postman, JMeter, Bash, Java(для тестировщи
   * Итоговый модуль. [Ссылка на сайт школы](https://netology.ru/sharing/5212924522a54eafd694ad69325ae811?utm_source=social&utm_campaign=achievements). [Ссылка на GitHUB](https://github.com/pachimar1/pachimar1/blob/main/final.jpg)
 
 **Свидетельство о прохождении курса: Тестировщик ПО.** [Ссылка на сайт онлайн школы](https://netology.ru/sharing/bf90f1c67ba5aa0567c3c234e3df92ad?utm_source=social&utm_campaign=achievements). [Ссылка на GitHUB](https://github.com/pachimar1/pachimar1/blob/main/QA.pdf)
+
+
+### Контакты
+* телефон: +7 (747) 616-09-70 (звонки, Казахстанский номер)
+* телефон: +7 (964) 429-78-88 (WhatsApp)
+* email: mihail.lebedev@me.com
+* telegram: @pachimar1
+
  
