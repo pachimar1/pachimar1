@@ -10,7 +10,7 @@ Windows, Jira, YouTrack, Postman, JMeter, Bash, Java(для тестировщи
   * Автоматизированное тестирование. [Репозитории с аббревиатурой aqa](https://github.com/pachimar1?tab=repositories)
   * Jira, YouTrack [Примеры в домашних работах](https://drive.google.com/drive/folders/1tnWgA-4EHVsZ9QBVK8K-XYUVJlQn6BZY?usp=sharing)
   * Postman, JMeter [Примеры в домашних работах](https://drive.google.com/drive/folders/1tnWgA-4EHVsZ9QBVK8K-XYUVJlQn6BZY?usp=sharing)
-  * HTML и CSS для тестировщиков. [Примеры в домашних работах](https://codepen.io/collection/xKaVdV)
+  * HTML и CSS для тестировщиков. [Примеры в домашних работах](https://codepen.io/collection/xKaVdV) Так же в [репозиториях](https://github.com/pachimar1?tab=repositories) в начале названия содержит "html-css".
   * Java(для тестировщиков). [Репозитории с аббревиатурой java](https://github.com/pachimar1?tab=repositories)
   * SQL(MySQL, Postgresql). Поверхностно, на уровне взаимодействия при написании автотестов. [Репозиторий](https://github.com/pachimar1/aqa8.sql)
   * Docker, Docker-compose. [Репозиторий](https://github.com/pachimar1/aqa7.docker)
